@@ -1,0 +1,11 @@
+{
+  "name": "Ignite-Estudo-Typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Henrique-NiroL/Ignite-Estudo-Typescript.git",
+  "author": "Henrique-Nirol <hocabral37@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
